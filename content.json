@@ -1,0 +1,270 @@
+{
+  "site": {
+    "name": "Deepan",
+    "role": "Musician · Composer · Performer",
+    "tagline": "Every song has a story.",
+    "taglineKicker": "Give your song yours.",
+    "intro": "Placeholder intro. One or two lines about the sound, the shows and the kind of stories Deepan puts into music. Edit this in the admin page.",
+    "heroImage": "assets/placeholders/spiderman-pointing.webp",
+    "heroImageAlt": "Placeholder photo. Replace with a portrait of Deepan.",
+    "ctaPrimary": "Hear the catalogue",
+    "ctaSecondary": "Book Deepan",
+    "billboards": [
+      "संगीत",
+      "LIVE",
+      "कहानी",
+      "ENCORE"
+    ]
+  },
+  "sections": [
+    {
+      "id": "watch",
+      "type": "videos",
+      "visible": true,
+      "nav": "Watch",
+      "eyebrow": "Music videos & live sets",
+      "title": "Watch the stories",
+      "intro": "Placeholder videos. Paste real YouTube links in the admin page.",
+      "items": [
+        {
+          "url": "https://www.youtube.com/watch?v=dQw4w9WgXcQ",
+          "title": "Never Gonna Give You Up",
+          "note": "Placeholder: featured music video"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=y6120QOlsfU",
+          "title": "Sandstorm",
+          "note": "Placeholder: live set"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=L_jWHffIx5E",
+          "title": "All Star",
+          "note": "Placeholder: cover"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=J---aiyznGQ",
+          "title": "Keyboard Cat",
+          "note": "Placeholder: studio session"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=j9V78UbdzWI",
+          "title": "Coffin Dance",
+          "note": "Placeholder: collaboration"
+        },
+        {
+          "url": "https://www.youtube.com/watch?v=2Z4m4lnjxkY",
+          "title": "Trololo",
+          "note": "Placeholder: behind the scenes"
+        }
+      ]
+    },
+    {
+      "id": "listen",
+      "type": "spotify",
+      "visible": true,
+      "nav": "Listen",
+      "eyebrow": "On Spotify",
+      "title": "Press play",
+      "intro": "Placeholder tracks. Paste Spotify track, album, playlist or artist links in the admin page.",
+      "items": [
+        {
+          "url": "https://open.spotify.com/track/4PTG3Z6ehGkBFwjybzWkR8"
+        },
+        {
+          "url": "https://open.spotify.com/track/6Sy9BUbgFse0n0LPA5lwy5"
+        },
+        {
+          "url": "https://open.spotify.com/track/3cfOd4CMv2snFaKAnMdnvK"
+        }
+      ]
+    },
+    {
+      "id": "see",
+      "type": "gallery",
+      "visible": true,
+      "nav": "See",
+      "eyebrow": "On stage & off",
+      "title": "Frames from the road",
+      "intro": "Placeholder photos. Upload real photos and arrange them in the admin page.",
+      "items": [
+        {
+          "src": "assets/placeholders/absolute-cinema.webp",
+          "alt": "Placeholder meme: Absolute Cinema",
+          "caption": "Placeholder: the final chord",
+          "size": "normal",
+          "focus": "center",
+          "ar": 1.291
+        },
+        {
+          "src": "assets/placeholders/spiderman-triple.webp",
+          "alt": "Placeholder meme: three Spider-Men pointing",
+          "caption": "Placeholder: band photo",
+          "size": "normal",
+          "focus": "center",
+          "ar": 1.089
+        },
+        {
+          "src": "assets/placeholders/expanding-brain.webp",
+          "alt": "Placeholder meme: expanding brain",
+          "caption": "Placeholder: songwriting night",
+          "size": "normal",
+          "focus": "top",
+          "ar": 0.713
+        },
+        {
+          "src": "assets/placeholders/distracted-boyfriend.webp",
+          "alt": "Placeholder meme: distracted boyfriend",
+          "caption": "Placeholder: crowd shot",
+          "size": "normal",
+          "focus": "center",
+          "ar": 1.5
+        },
+        {
+          "src": "assets/placeholders/drake.webp",
+          "alt": "Placeholder meme: Drake approves",
+          "caption": "Placeholder: soundcheck",
+          "size": "normal",
+          "focus": "center",
+          "ar": 1.0
+        },
+        {
+          "src": "assets/placeholders/this-is-fine.webp",
+          "alt": "Placeholder meme: this is fine",
+          "caption": "Placeholder: the pyro cue",
+          "size": "normal",
+          "focus": "center",
+          "ar": 2.057
+        },
+        {
+          "src": "assets/placeholders/surprised-pikachu.webp",
+          "alt": "Placeholder meme: surprised Pikachu",
+          "caption": "Placeholder: encore reaction",
+          "size": "normal",
+          "focus": "center",
+          "ar": 1.0
+        },
+        {
+          "src": "assets/placeholders/panik-kalm.webp",
+          "alt": "Placeholder meme: panik, kalm, panik",
+          "caption": "Placeholder: backstage",
+          "size": "normal",
+          "focus": "top",
+          "ar": 0.726
+        }
+      ]
+    },
+    {
+      "id": "story",
+      "type": "about",
+      "visible": true,
+      "nav": "Story",
+      "eyebrow": "The story so far",
+      "title": "Who is behind the songs",
+      "body": "Placeholder biography. Write where Deepan started, what shaped the sound and what a show feels like from the front row.\n\nKeep it short. Two or three paragraphs read better than a wall of text. Edit this in the admin page.",
+      "image": "assets/placeholders/hide-the-pain-harold.webp",
+      "imageAlt": "Placeholder meme: Hide the Pain Harold. Replace with a photo of Deepan.",
+      "stats": [
+        {
+          "value": "00+",
+          "label": "Live shows (placeholder)"
+        },
+        {
+          "value": "00",
+          "label": "Original songs (placeholder)"
+        },
+        {
+          "value": "00",
+          "label": "Cities played (placeholder)"
+        }
+      ]
+    },
+    {
+      "id": "hire",
+      "type": "services",
+      "visible": true,
+      "nav": "Hire",
+      "eyebrow": "Book the sound",
+      "title": "What Deepan can do for your stage",
+      "intro": "Placeholder services. Edit, add or remove them in the admin page.",
+      "items": [
+        {
+          "icon": "mic",
+          "title": "Live performances",
+          "text": "Placeholder: concerts, festivals, private events and weddings."
+        },
+        {
+          "icon": "keys",
+          "title": "Composing & scoring",
+          "text": "Placeholder: original music for film, ads, games and brands."
+        },
+        {
+          "icon": "headphones",
+          "title": "Session work",
+          "text": "Placeholder: vocals or instruments for your record."
+        },
+        {
+          "icon": "guitar",
+          "title": "Your story, your song",
+          "text": "Placeholder: a custom song written around your story."
+        }
+      ]
+    },
+    {
+      "id": "praise",
+      "type": "quotes",
+      "visible": true,
+      "nav": "Praise",
+      "eyebrow": "Word of mouth",
+      "title": "What people say",
+      "items": [
+        {
+          "quote": "Placeholder quote. Add a real line from a client, organiser or collaborator.",
+          "by": "Name, role (placeholder)"
+        },
+        {
+          "quote": "Placeholder quote. Short and specific works best.",
+          "by": "Name, role (placeholder)"
+        }
+      ]
+    },
+    {
+      "id": "contact",
+      "type": "contact",
+      "visible": true,
+      "nav": "Book",
+      "eyebrow": "Encore",
+      "title": "Let's write your story",
+      "text": "Placeholder: tell people what to send. For example the date, the venue, the kind of event and the story behind it.",
+      "image": "assets/placeholders/epic-handshake.webp",
+      "imageAlt": "Placeholder meme: epic handshake",
+      "email": "hello@example.com",
+      "phone": "",
+      "whatsapp": "",
+      "formEndpoint": "",
+      "socials": [
+        {
+          "label": "Instagram",
+          "url": "https://instagram.com/"
+        },
+        {
+          "label": "YouTube",
+          "url": "https://youtube.com/"
+        },
+        {
+          "label": "Spotify",
+          "url": "https://open.spotify.com/"
+        }
+      ]
+    }
+  ],
+  "seo": {
+    "title": "Deepan | Musician, composer and performer",
+    "description": "Every song has a story. Give your song yours. Watch, listen and book Deepan for live shows, composing and session work.",
+    "keywords": "Deepan, musician, composer, live music, singer, book a musician",
+    "siteUrl": "",
+    "ogImage": "assets/placeholders/spiderman-pointing.webp",
+    "twitter": "",
+    "locale": "en_IN",
+    "noindex": true
+  }
+}
