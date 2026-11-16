@@ -3,7 +3,7 @@
     "name": "Deepan",
     "role": "Musician · Composer · Performer",
     "tagline": "Every song has a story",
-    "taglineKicker": "Give your song a voice",
+    "taglineKicker": "Give yours a voice",
     "intro": "Placeholder intro. One or two lines about the sound, the shows and the kind of stories Deepan puts into music. Edit this in the admin page.",
     "heroImage": "assets/placeholders/spiderman-pointing.webp",
     "heroImageAlt": "Placeholder photo. Replace with a portrait of Deepan.",
@@ -267,5 +267,5 @@
     "locale": "en_IN",
     "noindex": true
   },
-  "publishId": "mwjiex45-2ylr"
+  "publishId": "mwjii8jc-c2es"
 }
