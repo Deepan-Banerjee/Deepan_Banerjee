@@ -1,3 +1,5 @@
 User-agent: *
-Disallow: /admin/
+Disallow: /Deepan_Banerjee/admin/
 Allow: /
+
+Sitemap: https://deepan-banerjee.github.io/Deepan_Banerjee/sitemap.xml

@@ -2,8 +2,8 @@
   "site": {
     "name": "Deepan",
     "role": "Musician · Composer · Performer",
-    "tagline": "Every song has a story.",
-    "taglineKicker": "Give your song yours.",
+    "tagline": "Every song has a story",
+    "taglineKicker": "Give your song a voice",
     "intro": "Placeholder intro. One or two lines about the sound, the shows and the kind of stories Deepan puts into music. Edit this in the admin page.",
     "heroImage": "assets/placeholders/spiderman-pointing.webp",
     "heroImageAlt": "Placeholder photo. Replace with a portrait of Deepan.",
@@ -125,7 +125,7 @@
           "caption": "Placeholder: soundcheck",
           "size": "normal",
           "focus": "center",
-          "ar": 1.0
+          "ar": 1
         },
         {
           "src": "assets/placeholders/this-is-fine.webp",
@@ -141,7 +141,7 @@
           "caption": "Placeholder: encore reaction",
           "size": "normal",
           "focus": "center",
-          "ar": 1.0
+          "ar": 1
         },
         {
           "src": "assets/placeholders/panik-kalm.webp",
@@ -261,10 +261,11 @@
     "title": "Deepan | Musician, composer and performer",
     "description": "Every song has a story. Give your song yours. Watch, listen and book Deepan for live shows, composing and session work.",
     "keywords": "Deepan, musician, composer, live music, singer, book a musician",
-    "siteUrl": "",
+    "siteUrl": "https://deepan-banerjee.github.io/Deepan_Banerjee/",
     "ogImage": "assets/placeholders/spiderman-pointing.webp",
     "twitter": "",
     "locale": "en_IN",
     "noindex": true
-  }
+  },
+  "publishId": "mwjiex45-2ylr"
 }
